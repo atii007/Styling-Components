@@ -1,2 +1,5 @@
 # Styling-Components
-This project Demonstrates styling of the components by different ways
+This project Demonstrates styling of the components by Following ways
+1. Inline CSS
+2. Styled Components
+3. CSS Modules
